@@ -2,7 +2,7 @@
 
 **Bookings, clients, staff and revenue — beautifully organized.** A free, open-source admin dashboard for hair salons, barber shops, nail studios and spas, built with Next.js 16, React 19, TypeScript and Tailwind CSS v4.
 
-**[Live demo of the full version →](https://salonly-iota.vercel.app)**
+**[Live demo of the full version →](https://salonly-iota.vercel.app)** · **[Get Salonly Pro →](https://beaj5.gumroad.com/l/salonly)**
 
 ![Salonly Lite dashboard](public/screenshot.jpg)
 
@@ -16,7 +16,7 @@
 
 ## Lite vs Pro
 
-|                                                                           | Lite (free) | [Pro](https://salonly-iota.vercel.app) |
+|                                                                           | Lite (free) | [Pro](https://beaj5.gumroad.com/l/salonly) |
 | ------------------------------------------------------------------------- | :---------: | :------------------------------------: |
 | Dashboard, client directory, appointments list, app shell, dark mode      |      ✓      |                   ✓                    |
 | Staff calendar: day / week / month / per-specialist views                 |             |                   ✓                    |

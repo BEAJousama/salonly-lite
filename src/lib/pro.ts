@@ -1,6 +1,6 @@
 /** Where Lite sends people for the full product. Update PRO_URL once your store page is live. */
 export const DEMO_URL = "https://salonly-iota.vercel.app";
-export const PRO_URL = "https://salonly-iota.vercel.app";
+export const PRO_URL = "https://beaj5.gumroad.com/l/salonly";
 
 export interface ProFeatureInfo {
   title: string;
